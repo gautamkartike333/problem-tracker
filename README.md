@@ -11,11 +11,6 @@ A simple and lightweight Chrome Extension that lets you **bookmark coding proble
 -  View your saved problems in the **popup interface**
 -  Remove bookmarks when no longer needed
 
----
-
-##  Screenshots
-
-
 
 ---
 
@@ -24,3 +19,15 @@ A simple and lightweight Chrome Extension that lets you **bookmark coding proble
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/gautamkartike333/problem-tracker.git
+
+
+---
+
+##  Screenshots
+
+
+
+https://github.com/user-attachments/assets/9164f917-ed98-442e-9932-59fc85ea1171
+
+
+---
