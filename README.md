@@ -14,7 +14,7 @@ A simple and lightweight Chrome Extension that lets you **bookmark coding proble
 
 ---
 
-## 🛠️ Installation (for development/testing)
+## 🛠 Installation (for development/testing)
 
 1. Clone or download this repository:
    ```bash
@@ -26,8 +26,9 @@ A simple and lightweight Chrome Extension that lets you **bookmark coding proble
 ##  Screenshots
 
 
+https://github.com/user-attachments/assets/3428f6f6-d27a-4f65-8361-26b41a83fa78
 
-https://github.com/user-attachments/assets/9164f917-ed98-442e-9932-59fc85ea1171
+
 
 
 ---
