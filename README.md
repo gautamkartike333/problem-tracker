@@ -6,7 +6,7 @@ A simple and lightweight Chrome Extension that lets you **bookmark coding proble
 
 ##  Features
 
--  Add a **"Bookmark" button** on AlgoZenith problem pages
+-  Add a **"Bookmark" button** on Leetcode problem pages
 -  Bookmarks are saved using **Chrome's local storage**
 -  View your saved problems in the **popup interface**
 -  Remove bookmarks when no longer needed
